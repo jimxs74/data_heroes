@@ -1,0 +1,5 @@
+1. mencari tool sosial networking untuk issue surat : 
+        - UCINET
+        - NodeXL
+        - Pajek
+2. 
