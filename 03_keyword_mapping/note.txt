@@ -1,0 +1,4 @@
+Metode menentukan hubungan antar masalah
+1. as it is yg 
+2. menggunakan bipartite matrix, jika kata yg di temukan muncul dalam 1 surat maka akan di beri nilai 1
+3. 
