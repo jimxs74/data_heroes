@@ -1,6 +1,0 @@
-source belajar : 
-1. video : https://www.elastic.co/virtual-events/getting-started-elasticsearch
-
-
-2. practice learn dengan elacticcloud, pakai login gmail dari UI. indri.atmoko@ui.ac.indri
-

@@ -22,6 +22,7 @@ temp/
 *.model
 *.npy
 *.pkl
+*.pdf
 
 #folder
 pdf_folder/
