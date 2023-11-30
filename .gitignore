@@ -23,6 +23,7 @@ temp/
 *.npy
 *.pkl
 *.pdf
+*.xlsx
 
 #folder
 pdf_folder/
